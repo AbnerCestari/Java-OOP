@@ -1,2 +1,2 @@
-# Java-OOP
-Java OOP Projects
+# Java Object Oriented Programming
+Java OOP Projects and studies
